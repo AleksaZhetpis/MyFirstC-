@@ -1,0 +1,15 @@
+C:\Users\DELL\Examples\Example007_Madgik\bin\Debug\net6.0\Example007_Madgik.exe
+C:\Users\DELL\Examples\Example007_Madgik\bin\Debug\net6.0\Example007_Madgik.deps.json
+C:\Users\DELL\Examples\Example007_Madgik\bin\Debug\net6.0\Example007_Madgik.runtimeconfig.json
+C:\Users\DELL\Examples\Example007_Madgik\bin\Debug\net6.0\Example007_Madgik.dll
+C:\Users\DELL\Examples\Example007_Madgik\bin\Debug\net6.0\Example007_Madgik.pdb
+C:\Users\DELL\Examples\Example007_Madgik\obj\Debug\net6.0\Example007_Madgik.csproj.AssemblyReference.cache
+C:\Users\DELL\Examples\Example007_Madgik\obj\Debug\net6.0\Example007_Madgik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Examples\Example007_Madgik\obj\Debug\net6.0\Example007_Madgik.AssemblyInfoInputs.cache
+C:\Users\DELL\Examples\Example007_Madgik\obj\Debug\net6.0\Example007_Madgik.AssemblyInfo.cs
+C:\Users\DELL\Examples\Example007_Madgik\obj\Debug\net6.0\Example007_Madgik.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Examples\Example007_Madgik\obj\Debug\net6.0\Example007_Madgik.dll
+C:\Users\DELL\Examples\Example007_Madgik\obj\Debug\net6.0\refint\Example007_Madgik.dll
+C:\Users\DELL\Examples\Example007_Madgik\obj\Debug\net6.0\Example007_Madgik.pdb
+C:\Users\DELL\Examples\Example007_Madgik\obj\Debug\net6.0\Example007_Madgik.genruntimeconfig.cache
+C:\Users\DELL\Examples\Example007_Madgik\obj\Debug\net6.0\ref\Example007_Madgik.dll
